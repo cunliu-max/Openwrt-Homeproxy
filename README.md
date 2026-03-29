@@ -1,13 +1,15 @@
 # Openwrt-Homeproxy
 Build from offical Openwrt and Immortalwrt's homeproxy
 
+Direct download link:
+
 https://github.com/cunliu-max/Openwrt-plus-Homeproxy-build/raw/refs/heads/main/targets/x86/64/openwrt-x86-64-generic-squashfs-combined.img.gz
 
 https://github.com/cunliu-max/Openwrt-plus-Homeproxy-build/raw/refs/heads/main/targets/x86/64/openwrt-x86-64-generic-squashfs-combined-efi.img.gz
 
 https://github.com/cunliu-max/Openwrt-plus-Homeproxy-build/raw/refs/heads/main/targets/x86/64/openwrt-x86-64-generic-squashfs-rootfs.img.gz
 
-Vist more build files, please check following link: 
+For more build files, please check following link: 
 
 https://github.com/cunliu-max/Openwrt-plus-Homeproxy-build/tree/main/targets/x86/64
 
