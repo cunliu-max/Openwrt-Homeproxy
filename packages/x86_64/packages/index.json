@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "architecture": "x86_64",
+  "packages": {
+    "autossh": "1.4g-r5",
+    "cgi-io": "2025.12.11~658b14bd-r1",
+    "openssh-client": "10.2_p1-r1",
+    "openssh-keygen": "10.2_p1-r1",
+    "sing-box": "1.12.17-r1"
+  }
+}
